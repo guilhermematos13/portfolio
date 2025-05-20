@@ -10,6 +10,14 @@
   --font-sans: var(--font-montserrat-sans);
 }
 
+.font-karla {
+  font-family: var(--font-karla-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
